@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleFreshServiceConnector", "ArticleFreshServiceConnector.csproj", "{90C513DD-B361-4966-B9BF-ED486DF11643}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ArticleFSConnector", "..\ArticleFSConnector\ArticleFSConnector.vdproj", "{697BAC03-F901-4B8A-B38C-48E892D808E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C513DD-B361-4966-B9BF-ED486DF11643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C513DD-B361-4966-B9BF-ED486DF11643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C513DD-B361-4966-B9BF-ED486DF11643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697BAC03-F901-4B8A-B38C-48E892D808E6}.Debug|Any CPU.ActiveCfg = Debug
+		{697BAC03-F901-4B8A-B38C-48E892D808E6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FEE836D-8EF8-4747-8B55-BEA1D3FA2E54}
+	EndGlobalSection
+EndGlobal
